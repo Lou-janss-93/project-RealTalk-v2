@@ -1,0 +1,7 @@
+# Supabase Configuration
+# Replace with your actual Supabase project credentials
+NEXT_PUBLIC_SUPABASE_URL=https://eyezsjzbcgnvzrpfyhwv.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV5ZXpzanpiY2dudnpycGZ5aHd2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE4MjAzMjYsImV4cCI6MjA2NzM5NjMyNn0.Tc7quaLh0SKbqv2fjI1-YnW7TOe6ub9QXEyH570R7GA
+
+# Production Environment
+NODE_ENV=production
