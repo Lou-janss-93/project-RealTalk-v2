@@ -8,7 +8,7 @@
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Lou-janss-93/project-RealTalk-v2>
 cd realtalk
 npm install
 ```
